@@ -8,7 +8,7 @@ function Header() {
         <a href="" class="navbar-brand p-0">
           <h1 class="m-0">
             <i class="fa fa-search me-2"></i>ExternHub
-            <span class="fs-5">Solutions</span>
+            <span class="fs-5">Solutions Manish</span>
           </h1>
         </a>
         <button
