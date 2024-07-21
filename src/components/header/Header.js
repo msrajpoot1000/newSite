@@ -7,8 +7,8 @@ function Header() {
       <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
         <a href="" class="navbar-brand p-0">
           <h1 class="m-0">
-            <i class="fa fa-search me-2"></i>SEO
-            <span class="fs-5">Master</span>
+            <i class="fa fa-search me-2"></i>ExternHub
+            <span class="fs-5">Solutions</span>
           </h1>
         </a>
         <button
